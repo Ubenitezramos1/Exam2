@@ -1,0 +1,9 @@
+start
+    int world.24 = 4;
+    given(world1 == 3){
+        world1 = 2 + 5;
+    }else{
+        world1 = 3 + 5;
+    }
+    Float = 5.7.8;
+stop

@@ -1,0 +1,8 @@
+    num world1 == 1.1;
+    given{world1 3}{
+        world1 = 2 + 5;
+    }inst{
+        world1 = 3 + 5
+        dec party3 = 4.5;
+    }
+stop

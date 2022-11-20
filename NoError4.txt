@@ -1,0 +1,10 @@
+start 
+    dec fLoatys = 6.9;
+    largo long3rr = 42l;
+    num counter = 0;
+    given(fLoatys <= 43){
+        counter = counter + 1;
+    }inst{
+        counter = counter * 7;
+    }
+stop

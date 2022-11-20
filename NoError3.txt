@@ -1,0 +1,8 @@
+start
+    num toycar1 = 5;
+    num raceCar7 = 24;
+    run(toycar1 <= raceCar7){
+        toycar1 = toycar1 + 2;
+        raceCar7 = raceCar7 +1;
+    }
+stop
